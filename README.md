@@ -1,2 +1,2 @@
 # Ndau API
-A RESTful API that gives the acess to geografical information about all subdivisions of Mozambique country.
+RESTful API built in Node.js for geographical information about all subdivisions of Mozambique country.
