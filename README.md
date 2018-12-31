@@ -1,2 +1,2 @@
-# Ndau API
-RESTful API built in Node.js for geographical information about all subdivisions of Mozambique country.
+# Ndau API's Documentation
+A documentation website built in React.js for Ndau API
