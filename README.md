@@ -1,2 +1,2 @@
-# Ndau API's Documentation
-A documentation website built in React.js for Ndau API
+# Ndau API's Demos
+A demos website built in React.js for Ndau API
